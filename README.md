@@ -5,8 +5,8 @@ Hangman is a classic word-guessing game where one player thinks of a word and th
 
 Team Members:
 
-Kshitij Kohli - Project Manager
-Himanshi - Developer
+Kshitij Kohli - Project Manager,
+Himanshi - Developer,
 Ishan Thakur - Tester
 Roles:
 
