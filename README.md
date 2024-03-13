@@ -1,33 +1,34 @@
-Project Title: Hangman Game
+Project Title: Hangman Game<br /> 
 
-Description:
-Hangman is a classic word-guessing game where one player thinks of a word and the other player tries to guess it by suggesting letters. With each incorrect guess, a part of a hangman is drawn. The player must guess the word before the hangman is fully drawn to win.
+Description:<br /> 
+Hangman is a classic word-guessing game where one player thinks of a word and the other player tries to guess it by suggesting letters. With each incorrect guess, a part of a hangman is drawn. The player must guess the word before the hangman is fully drawn to win.<br /> 
 
-Team Members:
+Team Members:<br /> 
 
-Kshitij Kohli - Project Manager,
-Himanshi - Developer,
-Ishan Thakur - Tester
-Roles:
+Kshitij Kohli - Project Manager,<br /> 
+Himanshi - Developer,<br /> 
+Ishan Thakur - Tester<br /> 
 
-Kshitij Kohli: Oversees project management, coordinates tasks, and ensures project deadlines are met.
-Himanshi: Develops the game logic and functionality.
-Ishan Thakur: The tester ensures the functionality and quality of the Hangman game through rigorous testing procedures.
+Roles:<br /> 
 
-Clone or download the Hangman Game repository from GitHub.
-Install any required dependencies specified in the README file.
-Run the main executable file (e.g., hangman.exe or hangman.py).
-The game will display the hangman interface and prompt the player to guess a letter.
-Enter a letter using the keyboard.
-If the letter is correct, it will be revealed in the word. If incorrect, part of the hangman will be drawn.
-Continue guessing letters until the word is guessed correctly or the hangman is fully drawn.
-Additional Features/Notes:
+Kshitij Kohli: Oversees project management, coordinates tasks, and ensures project deadlines are met.<br /> 
+Himanshi: Develops the game logic and functionality.<br /> 
+Ishan Thakur: The tester ensures the functionality and quality of the Hangman game through rigorous testing procedures.<br /> 
 
-The game can be customized to have different difficulty levels, word categories, or even multiplayer functionality.
-Sound effects and animations can be added to enhance the gaming experience.
-A scoring system could be implemented to track the player's performance.
-It's important to ensure that the game is user-friendly and provides clear instructions for playing.
-Testing should be conducted to identify and fix any bugs or issues before releasing the game to the public.
+Clone or download the Hangman Game repository from GitHub.<br /> 
+Install any required dependencies specified in the README file.<br /> 
+Run the main executable file (e.g., hangman.exe or hangman.py).<br /> 
+The game will display the hangman interface and prompt the player to guess a letter.<br /> 
+Enter a letter using the keyboard.<br /> 
+If the letter is correct, it will be revealed in the word. If incorrect, part of the hangman will be drawn.<br /> 
+Continue guessing letters until the word is guessed correctly or the hangman is fully drawn.<br /> 
+Additional Features/Notes:<br /> 
+
+The game can be customized to have different difficulty levels, word categories, or even multiplayer functionality.<br /> 
+Sound effects and animations can be added to enhance the gaming experience.<br /> 
+A scoring system could be implemented to track the player's performance.<br /> 
+It's important to ensure that the game is user-friendly and provides clear instructions for playing.<br /> 
+Testing should be conducted to identify and fix any bugs or issues before releasing the game to the public.<br /> 
 
 
 Tests by tester:-<br /> 
