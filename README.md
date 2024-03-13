@@ -30,7 +30,7 @@ It's important to ensure that the game is user-friendly and provides clear instr
 Testing should be conducted to identify and fix any bugs or issues before releasing the game to the public.
 
 
-Tests by tester:-
+Tests by tester:-<br /> <br />
 
 In version1.0-
 Test cases:
