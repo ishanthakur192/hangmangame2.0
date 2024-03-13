@@ -43,9 +43,10 @@ Case 2:<br />
 Guess:-p,x,a,u,e,l<br /> 
 Output:-you've guessed the word 'apple'.<br /> 
 
-1.play only once, game is not starting again.<br /> 
-2.not creative display add more features.<br /> 
-3.not displaying no of attempts  and length of words.<br /> 
+PROBLEM FACED:<br /> 
+1. Play only once, game is not starting again.<br /> 
+2. Not creative display add more features.<br /> 
+3. Not displaying no of attempts  and length of words.<br /> 
 
 In  version 2.0 -<br /> 
 case 1:-you've guessed the word 'grape'.<br /> 
@@ -53,6 +54,7 @@ case 1:-you've guessed the word 'grape'.<br />
 case 2:- Sorry you've run out of attempts.<br /> 
         The word was 'grape'<br /> 
         Your score:0<br /> 
+PROBLEM FACED:<br /> 
 1. Difficulty level not specified.<br /> 
 2. Hints not shown.<br /> 
 3. previous game score not shown.<br /> 
@@ -64,13 +66,13 @@ case 2: Sorry you've run out of attempts.<br />
         The word was 'grape'<br /> 
         Your score:0<br /> 
  
-Features<br /> 
-1.Word length.<br /> 
-2.No of attempt.<br /> 
+PROBLEM RESOLVED<br /> 
+1. Word length.<br /> 
+2. No of attempt.<br /> 
 3. Score.<br /> 
-4.Previous game score.<br /> 
-5.Difficulty level.<br /> 
-6.Hints.<br /> 
+4. Previous game score.<br /> 
+5. Difficulty level.<br /> 
+6. Hints.<br /> 
    
 
 
