@@ -73,7 +73,8 @@ PROBLEM RESOLVED<br />
 4. Previous game score.<br /> 
 5. Difficulty level.<br /> 
 6. Hints.<br /> 
-   
+
+Hangman is not only a fun game but can also be educational, helping players improve their vocabulary and spelling skills. It's a popular game for children and adults alike and can be played using pen and paper, on a computer, or through various electronic devices.<br /> 
 
 
 
