@@ -9,7 +9,7 @@ Kshitij Kohli - Project Manager,<br />
 Himanshi - Developer,<br /> 
 Ishan Thakur - Tester<br /> 
 
-Roles:<br /> 
+Roles: <br /> 
 
 Kshitij Kohli: Oversees project management, coordinates tasks, and ensures project deadlines are met.<br /> 
 Himanshi: Develops the game logic and functionality.<br /> 
