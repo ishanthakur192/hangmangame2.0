@@ -28,7 +28,7 @@ The game can be customized to have different difficulty levels, word categories,
 Sound effects and animations can be added to enhance the gaming experience.<br /> 
 A scoring system could be implemented to track the player's performance.<br /> 
 It's important to ensure that the game is user-friendly and provides clear instructions for playing.<br /> 
-Testing should be conducted to identify and fix any bugs or issues before releasing the game to the public.<br /> 
+Testing should be conducted to identify and fix any bugs or issues before releasing the game to the public. <br /> 
 
 
 Tests by tester:-<br /> 
